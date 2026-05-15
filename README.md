@@ -1,2 +1,2 @@
 # The-smart-meter-Ai
-smart-meter-ai-bescom.netlify.app
+https://www.smart-meter-ai-bescom.netlify.app
